@@ -36,7 +36,7 @@ export default function Home() {
             Connect with qualified teachers in your neighborhood and give your children
             the education they deserve, without the commute.
           </p>
-          <div className="space-x-4">
+          <div className="space-x-4 grid gap-4  sm:block">
             <Link 
               href="/auth/register/parent"
               className="bg-white text-blue-600 px-6 py-3 rounded-lg font-semibold inline-flex items-center"
