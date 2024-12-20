@@ -56,10 +56,10 @@ export default function Navbar() {
             Login
           </Link>
           <Link 
-            href="/auth/register/parent"
-            className="block bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 text-center"
+            href="/auth/register/centre"
+            className="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700"
           >
-            Get Started
+            Register Centre
           </Link>
         </div>
       )}
