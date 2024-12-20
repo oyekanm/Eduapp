@@ -57,7 +57,7 @@ export default function Navbar() {
           </Link>
           <Link 
             href="/auth/register/centre"
-            className="bg-blue-600 text-white mt-4 w-full text-center px-4 py-2 rounded-lg hover:bg-blue-700"
+            className="bg-blue-600 text-white mt-4 w-full text-center block px-4 py-2 rounded-lg hover:bg-blue-700"
           >
             Register Centre
           </Link>
